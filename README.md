@@ -29,4 +29,4 @@ An Arduino-based device to **learn, decode, and transmit IR signals** from any r
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/IR-Hub.git
+   git clone https://github.com/tlathi/IR-Hub.git
