@@ -30,3 +30,9 @@ An Arduino-based device to **learn, decode, and transmit IR signals** from any r
 1. Clone this repository:
    ```bash
    git clone https://github.com/tlathi1/IR-Hub.git
+
+---
+## Library
+**IRlib2-Master**
+```bash
+https://github.com/cyborg5/IRLib2
