@@ -2,7 +2,7 @@
  *  by tlathi
  *  Last modified: 2025-01-15 10:24:47 UTC by tlathi1
  *  
- *  This code can receive IR signals automatically and playback them in every two seconds without serial output it only uses Built-in-LED feedback
+ *  This code can receive IR signals automatically and playback them in every one seconds with serial output and Built-in-LED feedback
  */
 #include <IRLibDecodeBase.h>  
 #include <IRLibSendBase.h>   
